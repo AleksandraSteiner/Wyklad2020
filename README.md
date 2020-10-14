@@ -1,3 +1,5 @@
+Data egzaminu: 2021.01.20
+
 # Modelowanie Statystyczne w Zarządzaniu Wierzytelnościami Masowymi
 
 **Opis kursu:**
