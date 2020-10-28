@@ -132,9 +132,9 @@ tstMSE - (tstVar + tstBSQ) # wariancja zakłócenia (czynnik nieredukowalny)
 # Uwaga: Podział na zbiór uczący i testowy pozwala uniknąć problemu 
 # niedoszacowania błędu modelu
 
-# Uwaga: Wydzielenie zbioru walidacyjnego pozwala uniknąć przypadku, w którym
-# w trakcie modelowania z wykorzystaniem zbioru uczącego i testowego 
-# "podświadomie" zaczniemy wykorzystywać wiedzę ze zbioru testowego
+# Uwaga: Wydzielenie zbioru testowego pozwala uniknąć przypadku, w którym
+# w trakcie modelowania z wykorzystaniem zbioru uczącego i walidacyjnego 
+# "podświadomie" zaczniemy wykorzystywać wiedzę ze zbioru walidacyjnego
 
 # Prezentację zagadnienia wykonamy na zbiorze pożyczek z zadłużeniem do 65k
 # i problemem klasyfikacji "czy uzyskamy dotarcie"
